@@ -27,7 +27,7 @@ export default function SignIn() {
         <h1 className="text-2xl font-bold mb-4">로그인</h1>
         <button
           onClick={handleGoogleSignIn}
-          className="w-full py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-red-500 hover:bg-red-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
+          className="w-full py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-blue-500 hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
         >
           구글로 로그인
         </button>
